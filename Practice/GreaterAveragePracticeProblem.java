@@ -9,7 +9,7 @@ class GreaterAveragePracticeProblem
       Scanner sc=new Scanner(System.in);
       int t=sc.nextInt();
       while(t-->0){
-          double a= sc.nextDouble();
+          double a= sc.nextDouble() ;
           double b= sc.nextDouble();
           double c= sc.nextDouble();
           double avg=(a+b)/2;
