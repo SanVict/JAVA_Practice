@@ -14,7 +14,7 @@ public class LCM {
        out=b;
       else 
           out =a;
-    System.out.println("LCM :"+(A*B)/out);
+    System.out.println("LCM :"+(A*B)/ out);
     }
     
 }
