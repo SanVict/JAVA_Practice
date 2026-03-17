@@ -12,7 +12,7 @@ public class sum_of_digitinrange {
  }
 static int excludeboundary(int a,int b) {
       int out=(a*(a+1)/2) - (b*(b-1)/2);
-      System.out.println("Boundary included sum:"+out);
+      System.out.println("Boundary included sum: "+out);
       return 0;
      }
    static int includeboundary(int a,int b) {
